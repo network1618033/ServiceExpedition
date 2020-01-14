@@ -1,2 +1,2 @@
 # ServiceExpedition
-Application C# qui gère un service d'expédition
+Application C# WindowsForm qui gère un service d'expédition
