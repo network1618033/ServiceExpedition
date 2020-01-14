@@ -26,7 +26,7 @@ namespace Geographie
     /// <summary>
     /// Objet métier : Régions ou provinces des pays de livraison d'un colis
     /// </summary>
-    /// <remarks>Tous droits réservés Comeau Zogona Inc 2019</remarks>
+    /// <remarks>Tous droits réservés Zogona Inc 2019</remarks>
     public class Monde
     {
         #region Champs privés

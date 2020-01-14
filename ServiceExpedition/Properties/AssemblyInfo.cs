@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ServiceExpedition")]
 [assembly: AssemblyDescription("Inscrire l'information de la transaction d'un colis à expédier à un destinataire canadien ou américain. Produire la facture de la transaction et une liste des prix")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Comeau Zogona Inc.")]
+[assembly: AssemblyCompany("Zogona Inc.")]
 [assembly: AssemblyProduct("ServiceExpedition")]
-[assembly: AssemblyCopyright("Copyright ©  Comeau Zogona Inc. 2019")]
+[assembly: AssemblyCopyright("Copyright ©  Zogona Inc. 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

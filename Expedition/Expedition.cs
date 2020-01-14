@@ -25,7 +25,7 @@ namespace ExpeditionR
     /// <summary>
     /// Objet métier : Expédition d'un colis d'un colis
     /// </summary>
-    /// <remarks>Tous droits réservés Comeau Zogona Inc 2019</remarks>
+    /// <remarks>Tous droits réservés Zogona Inc 2019</remarks>
     public class Expedition
     {
         #region Champs privés
